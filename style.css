@@ -1,0 +1,19 @@
+div {
+    width: 120px;	
+    height: 120px;
+    outline: 2px solid #000; /* Чёрная рамка */
+    padding: 30px;
+	display: inline-block;
+	margin: 10px;
+}
+   
+table{
+    border-collapse: collapse;
+}
+
+td,th{
+    border: 1px solid black;
+}
+
+   
+   
